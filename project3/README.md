@@ -1,1 +1,1 @@
-<h4>Uploading...</h4>
+<h4>Uploading...Please wait</h4>
