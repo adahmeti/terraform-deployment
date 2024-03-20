@@ -1,3 +1,5 @@
+<img src"">
+
 # E-commerce Platform Infrastructure Requirements
 
 ### Objective
