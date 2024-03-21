@@ -1,4 +1,4 @@
-<img src"">
+<img src"E-commerce-V3.0.jpg">
 
 # E-commerce Platform Infrastructure Requirements
 
